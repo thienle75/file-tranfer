@@ -12,7 +12,7 @@
 
 
 ### Run Application
-- Import project as Maven project
+- Import file-transfer/parent project as Maven project.  It should import both server and client project as Maven as well. 
 - Under server folder, run server application. The server should run on http://localhost:8080/
 - Under client folder, run client application. It need to at least 2 argument 
 	 Takes 3 arguments. 
