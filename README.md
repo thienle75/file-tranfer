@@ -12,6 +12,7 @@
 
 
 ### Run Application
+- Import project as Maven project
 - Under server folder, run server application. The server should run on http://localhost:8080/
 - Under client folder, run client application. It need to at least 2 argument 
 	 Takes 3 arguments. 
