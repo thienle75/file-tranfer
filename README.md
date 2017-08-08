@@ -1,4 +1,4 @@
-# ReactJS Socket.io Chat Application
+# Transfer file between client and Server Application
 
 /**
  * Author: Thien Le
